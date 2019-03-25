@@ -1,5 +1,5 @@
 # sirystes - steam account creator v1
-Steam Account Creator
+Steam Account Creator/Generator, now you can create as many accounts as you want and much easier and much faster.
 
 # Discord
 To recieve most recents updates and make request's
