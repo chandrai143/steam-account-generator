@@ -3,7 +3,7 @@ Steam Account Creator/Generator, now you can create as many accounts as you want
 
 # Discord
 To recieve most recents updates and make request's
-https://discord.gg/XCqsZz5
+https://discord.gg/AcCKXyw
 
 # Note Updates :
 maybe this does not work anymore...I'll be updating to a new version soon...a new version with proxy system.
