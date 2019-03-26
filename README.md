@@ -1,5 +1,7 @@
+# Note Updates :
+maybe this does not work anymore...I'll be updating to a new version soon...a new version with proxy system.
+working fine(23/03/2019
 # sirystes - steam account creator v1
-maybe this does not work anymore ... I'll be updating to a new version soon ... a new version with proxy system.
 Steam Account Creator/Generator, now you can create as many accounts as you want and much easier and much faster.
 
 # Discord
