@@ -6,7 +6,6 @@ To recieve most recents updates and make request's
 https://discord.gg/AcCKXyw
 
 # Note Updates :
-reCaptcha key option
 maybe this does not work anymore...I'll be updating to a new version soon...a new version with proxy system.
 
 # Virus Scan :
